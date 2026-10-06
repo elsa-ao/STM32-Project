@@ -18,10 +18,3 @@ stm32-udemy-project/
 ├── kicad/    # KiCad schematic + PCB
 └── docs/     # Exported images/renders
 ```
-
-## Status
-
-- [x] Pinout, schematic, and PCB layout complete
-- [x] DRC/ERC checks passed
-- [ ] PCB ordered
-- [ ] Firmware development
