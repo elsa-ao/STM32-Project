@@ -1,0 +1,24 @@
+# STM32CubeIDE / CubeMX build artifacts
+Debug/
+Release/
+Drivers/
+Middlewares/
+*.launch
+.settings/
+.cproject
+.project
+.mxproject
+
+# KiCad backups and autosave
+*.bak
+*-backups/
+_autosave-*
+fp-info-cache
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.000
+*.lck
+
+# OS junk
+.DS_Store
+Thumbs.db
